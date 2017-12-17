@@ -9,3 +9,7 @@ func Reverse(str string) string {
 	}
 	return string(r)
 }
+
+type A struct {
+	F2 string
+}
